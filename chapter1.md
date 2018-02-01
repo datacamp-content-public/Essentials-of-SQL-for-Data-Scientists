@@ -10,6 +10,7 @@ type: NormalExercise
 lang: sql
 xp: 100
 skills: 1
+key: e398e6b42c
 ```
 
 Do some data science.
